@@ -22,6 +22,7 @@
 .container{
     max-width: 1200px;
     margin: auto;
+    padding-bottom: 40px;
 }
 
 .center{
@@ -36,8 +37,7 @@ h1{
 .box{
     width: calc(90% / 3);
     background-color: var(--bg-box);
-    color: var(--text);
-    margin-top: 3rem; 
+    color: var(--text); 
     margin: 20px;
 }
 

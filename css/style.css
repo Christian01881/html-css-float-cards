@@ -16,12 +16,14 @@
     --bg-box: #0f0e17;
     --text: white;
     --link: #0093e7;
+    --link2: purple;
 }
 
 .container{
     max-width: 1200px;
     margin: auto;
 }
+
 .center{
     text-align: center;
 }
@@ -54,6 +56,14 @@ a{
 
 .padding{
     padding: 1rem 4rem 0rem 1rem;
+}
+
+.widht{
+    width: 1180px;
+}
+
+a:hover{
+    color: var(--link2);
 }
 
 
